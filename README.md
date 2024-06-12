@@ -2,6 +2,9 @@
 
 This repository contains code and data samples accompanying the manuscript "Temporal Link Prediction in Social Networks Based on Agent Behavior Synchrony and a Cognitive Mechanism" [Duan et al](http://arxiv.org/abs/2406.06814).
 
+## DOI
+[10.5281/zenodo.11612805](https://zenodo.org/doi/10.5281/zenodo.11612804)
+
 ## Repository content
 This repository contains a [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6Z3CGX) with metadata on email exchange between the employees of a mid-sized manufacturing company.
 
